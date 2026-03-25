@@ -2,7 +2,7 @@ import React from 'react'
 import { motion } from 'framer-motion'
 import { FiGithub, FiExternalLink } from 'react-icons/fi'
 import { useDarkMode } from '../context/DarkModeContext'
-import cafeImg from "../assests/images/cafeProject.png"
+import cafeImg from "../assets/images/cafeProject.png"
 
 const ProjectCard = ({ title, description, tags, github, demo, featured }) => {
   const { isDark } = useDarkMode()
