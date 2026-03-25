@@ -1,0 +1,132 @@
+/* Placeholder resume - Replace with your actual resume */
+
+ABHISHEK KUMAR
+Full Stack Developer | UI/UX Enthusiast | Problem Solver
+📧 abhishek@example.com | 📱 +91 987 654 3210 | 📍 India
+🔗 GitHub: github.com/yourusername | 💼 LinkedIn: linkedin.com/in/yourusername
+
+---
+
+PROFESSIONAL SUMMARY
+
+Results-driven Full Stack Developer with 3+ years of experience building scalable web applications.
+Expertise in frontend development with React.js, backend with Node.js, and database design.
+Passionate about creating beautiful, responsive user interfaces with excellent user experiences.
+Strong problem-solving skills and ability to work collaboratively in agile environments.
+
+---
+
+TECHNICAL SKILLS
+
+Frontend Technologies
+• React.js (Hooks, Context API, Redux)
+• HTML5, CSS3, Tailwind CSS
+• JavaScript (ES6+, Async/Await, Promises)
+• Responsive Web Design, Mobile-First Approach
+• Animation Libraries (Framer Motion, Animate.css)
+• State Management (Redux, Zustand)
+
+Backend Technologies
+• Node.js, Express.js
+• RESTful API Development
+• Authentication (JWT, OAuth, Session-based)
+• Database Design & Optimization
+• PostgreSQL, MongoDB, Firebase
+
+Tools & Platforms
+• Git, GitHub, GitLab
+• Docker, Docker Compose
+• Webpack, Vite
+• Jest, React Testing Library
+• Postman, VS Code
+• AWS, Vercel, Netlify
+
+---
+
+PROFESSIONAL EXPERIENCE
+
+Senior Full Stack Developer | Tech Company (Jan 2022 - Present)
+• Led development of 5+ full-stack web applications using React and Node.js
+• Improved application performance by 40% through code optimization
+• Mentored 3 junior developers on best practices and code standards
+• Implemented CI/CD pipelines using GitHub Actions
+
+Full Stack Developer | Startup (Jun 2021 - Dec 2021)
+• Developed e-commerce platform handling 10,000+ daily users
+• Built responsive UI with React and Tailwind CSS
+• Designed database schema and created RESTful APIs
+• Reduced API response time by 50% through optimization
+
+Junior Full Stack Developer | Web Agency (Jan 2020 - May 2021)
+• Built 15+ websites and web applications for various clients
+• Handled frontend and backend development using React and Express
+• Implemented responsive designs across all screen sizes
+• Fixed bugs and performance issues in existing applications
+
+---
+
+KEY PROJECTS
+
+E-Commerce Platform
+• Full-stack web application with product catalog, shopping cart, and payment integration
+• Tech: React, Node.js, PostgreSQL, Stripe
+• Features: User authentication, product filtering, order management, admin dashboard
+
+Task Management Application
+• Real-time collaborative task management tool
+• Tech: React, Firebase, Redux, Tailwind CSS
+• Features: Real-time updates, team collaboration, progress tracking, notifications
+
+Social Media Feed
+• Twitter-like social media platform
+• Tech: React, Node.js, PostgreSQL, Socket.io
+• Features: Posts, likes, comments, user profiles, real-time notifications
+
+Analytics Dashboard
+• Real-time data visualization dashboard
+• Tech: React, Node.js, Chart.js, MongoDB
+• Features: Interactive charts, data filtering, export functionality
+
+---
+
+EDUCATION
+
+Bachelor of Technology in Computer Science
+University Name (2017 - 2021)
+CGPA: 8.5/10
+
+Relevant Coursework: Data Structures, Database Management, Web Development, Software Engineering
+
+---
+
+CERTIFICATIONS & COURSES
+
+• Full Stack Web Development Bootcamp - Udemy (2019)
+• React.js Advanced Patterns - Frontend Masters (2021)
+• Node.js Complete Course - Udemy (2020)
+• AWS Solutions Architect - In Progress
+
+---
+
+ACHIEVEMENTS & AWARDS
+
+• Employee of the Month (3 times) - Current Organization
+• Best Code Quality Award - 2021
+• Open Source Contributor - 50+ GitHub contributions
+• Technical Blog Writer - Published 20+ articles on web development
+
+---
+
+ADDITIONAL INFORMATION
+
+Languages: English (Fluent), Hindi (Native)
+Hobbies: Open-source contribution, blogging, photography
+Availability: Ready to join immediately
+Portfolio: https://abhishekportfolio.com
+GitHub: https://github.com/yourusername
+
+---
+
+REFERENCES
+
+Available upon request
