@@ -1,7 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import { useDarkMode } from '../context/DarkModeContext'
-import profilePic from "../assests/images/profilepic.jpeg"
+import profilePic from "../assets/images/profilepic.jpeg"
 
 const About = () => {
   const { isDark } = useDarkMode()
